@@ -24,7 +24,16 @@ hr {
     margin: 20px auto;
 }
 
-#fluxo h2, .cards h2, h3 a {
+.carousel-item .h1 a,
+.card-body .h1 a {
+    color: #000 !important;
+    font-size: 48px !important;
+    font-weight: 200 !important;
+}
+
+#fluxo h2,
+.cards h2,
+h3 a {
     color: #000 !important;
     letter-spacing: -1px;
     font-size: 28px !important;
@@ -32,7 +41,7 @@ hr {
 
 h3 a:hover {
     color: #69bb7e !important;
-} 
+}
 
 h3 p {
     font-size: 22px !important;

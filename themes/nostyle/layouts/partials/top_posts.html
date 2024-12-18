@@ -11,7 +11,11 @@
             </div>
             <div class="col-lg-6 mb-0 d-flex align-items-center">
                 <div class="text-align-left">
-                    <h1 class="h1">{{ .Title }}</h1>
+                    <h1 class="h1">
+                        <a class="text-decoration-none" href="{{ .RelPermalink }}">
+                            {{ .Title }}
+                        </a>
+                    </h1>
                     <h3 class="h2">{{ .Params.caption}}</h3>
                     <p>{{ .Params.summary}}</p>
                 </div>
