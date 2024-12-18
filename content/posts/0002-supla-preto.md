@@ -1,7 +1,6 @@
 ---
 title: "Suplat Preto"
 featured: true
-suggest: true
 stars: 3
 tags: ["decoração", "suplat"]
 image: "0002-supla-preto.jpg"
