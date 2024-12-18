@@ -15,17 +15,17 @@
                 <h1 class="h2 pb-2 px-0">Categorias</h1>
 
                 <ul class="list-unstyled px-1">
-                    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+                    {{ range ($.Site.GetPage "taxonomyTerm" "tags").Pages }}
                       <li class="d-flex list-unstyled justify-content-between">
-                        <a class="h3 categories text-capitalize text-decoration-none" href="/tags/{{ $name }}">
-                            {{ $name }}
+                        <a class="h3 categories text-capitalize text-decoration-none" href="{{ .Permalink }}">
+                            {{ .Title}}
                         </a>
-                        <a class="h3 pt-1 categories text-capitalize text-decoration-none" href="/tags/{{ $name }}">
+                        <a class="h3 pt-1 categories text-capitalize text-decoration-none" href="{{ .Permalink }}">
                             <i class="fa fa-fw fa-chevron-circle-right"></i>
                         </a>
                     </li>
                     {{ end }}
-                  </ul>
+                </ul>
             </div>
 
             <!-- Product list -->
