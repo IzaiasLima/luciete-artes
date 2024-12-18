@@ -1,0 +1,23 @@
+{{ $res := where .Site.RegularPages "Params.featured" true }}
+{{ range $res }}
+
+<div class="carousel-item {{ if .Params.active }} active {{ end }}">
+    <div class="container">
+        <div class="row p-5">
+            <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                <a href="{{ .RelPermalink }}">
+                    <img src="/posts/images/{{ .Params.image }}" class="img-fluid" alt="{{ .Params.image }}">
+                </a>
+            </div>
+            <div class="col-lg-6 mb-0 d-flex align-items-center">
+                <div class="text-align-left">
+                    <h1 class="h1">{{ .Title }}</h1>
+                    <h3 class="h2">{{ .Params.caption}}</h3>
+                    <p>{{ .Params.summary}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}

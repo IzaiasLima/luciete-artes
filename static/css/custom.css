@@ -1,0 +1,62 @@
+/*
+Custom Css
+*/
+
+.bg-success a {
+    color: #fff !important;
+}
+
+main a,
+.tags a {
+    color: #1c2d20;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a.categories {
+    color: #000;
+    font-weight: 400;
+}
+
+hr {
+    border: 2px solid #333b2b;
+    width: 150px;
+    margin: 20px auto;
+}
+
+#fluxo h2, .cards h2, h3 a {
+    color: #000 !important;
+    letter-spacing: -1px;
+    font-size: 28px !important;
+}
+
+h3 a:hover {
+    color: #69bb7e !important;
+} 
+
+h3 p {
+    font-size: 22px !important;
+}
+
+.card a {
+    margin-bottom: 0;
+}
+
+.card-body>.product-title {
+    min-height: 3em;
+}
+
+.pagination-lg .page-link {
+    font-size: 18px;
+}
+
+.page-item span.disabled {
+    font-size: 18px;
+    color: #dac9da;
+    background-color: #91aa91 !important;
+}
+
+.page-item.disabled .page-link {
+    font-size: 18px;
+    background-color: #b8beb8 !important;
+}
