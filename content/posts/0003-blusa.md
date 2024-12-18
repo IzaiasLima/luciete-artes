@@ -4,7 +4,7 @@ featured: true
 Active: true
 suggest: true
 stars: 4
-tags: ["vestimentas", "adulto", "jovens", "moda"]
+tags: ["adulto", "jovens", "moda"]
 image: "0003-blusa.jpg"
 images: [
     ["0003-blusa.jpg", "0003A-blusa.jpg", "0003B-blusa.jpg"]
