@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://www.luciete.com.br"
 theme = "nostyle"
 relativeURLs = true
 title = "Artes da Lu"
