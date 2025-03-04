@@ -1,6 +1,6 @@
 ---
 title: "Bolo de pão de queijo"
-date: 2024-12-11
+date: 2025-03-03
 category: ["articles"]
 image: "pao-de-queijo.jpg"
 summary: "Fácil e rápido de preparar."
@@ -16,8 +16,9 @@ summary: "Fácil e rápido de preparar."
 uma pitada de orégano  
 uma pitada de sal
 
-**Como Fazer:**  Bate no liquidificador, ovos, óleo, leite, orégano, sal e o polvilho.  
-Em uma bacia, acrescente o queijo ralado e o fermento, mistura bem devagar.  
+**Como Fazer:**  
+Bata no liquidificador, ovos, óleo, leite, orégano, sal e o polvilho.  
+Em uma bacia, acrescente o queijo ralado e o fermento, mistura bem devagar.   
 Coloque em forma untada e polvilhada com trigo.  
 Leve ao forno pré-aquecido.
 

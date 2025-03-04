@@ -3,7 +3,7 @@ title: "Bolo de cenoura"
 date: 2024-12-13
 category: ["articles"]
 image: "bolo-de-cenoura.jpg"
-summary: "Esse bolo de cenoura no liquidificador é uma mão na roda."
+summary: "Esse bolo de cenoura no liquidificador é muito prático."
 ---
 
 **Ingredientes:**  
