@@ -28,6 +28,13 @@ div {
   font-weight: 300 !important;
 }
 
+h6#observações, h6#observação {
+  font-size: 1em;
+  font-style: italic ;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
 h1,
 .h1 {
   font-family: 'Roboto', sans-serif;

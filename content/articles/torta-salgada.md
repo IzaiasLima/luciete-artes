@@ -6,7 +6,8 @@ image: "torta-salgada.jpg"
 summary: "Esta é uma receita mais elaborada e trabalhosa, mas o resultado é saboroso."
 ---
 
-**Ingredientes:**  
+**Ingredientes:**
+
 **_Para o recheio_**:  
 3 latas de milho  
 3 latas de ervilhas  
@@ -14,7 +15,6 @@ summary: "Esta é uma receita mais elaborada e trabalhosa, mas o resultado é sa
 2 batatas (picadas e cozidas)  
 2 cenouras (picadas e cozidas)  
 4 peitos de frango (preparado e desfiado)  
-
 4 pacotes de pão de forma  
 1 caixa de leite (para umedecer o pão)
 
@@ -22,15 +22,18 @@ summary: "Esta é uma receita mais elaborada e trabalhosa, mas o resultado é sa
 3 latas de creme de leite  
 2 potes de maionese 500ml
 
-**Como fazer:**  
+**Como fazer o creme:**  
 Misture os dois ingredientes somente com uma colher e reserve.
 
 **Prepare o recheio:**  
-Para desfiar o peito de frango já cozido, corte-o em cubinho, 
-coloque em uma vasilha com tampa e sacuda vigorosamente.  
 Misture ao peito de frango já desfiado, o milho, a ervilha,
-a salsicha, a batata, a cenoura e a metade do creme, e reserve.  
-_Observação: todos os enlatados já devem estar previamente escorridos._
+a salsicha, a batata, a cenoura e a metade do creme, e reserve. 
+
+###### Observações: 
+- _Todos os enlatados devem estar previamente escorridos._
+- _Uma forma de desfiar o frango é cortar em cubos e sacudir numa vasilha tampada._
+
+
 
 **Como montar a torta:**  
 Faça uma camada de fatias de pão umedecidas no leite, outra de recheio, 
@@ -39,6 +42,8 @@ Aplique o restante do creme por cima e nas laterais da torta cobrindo-a completa
 Para dar um acabamento melhor, salpique um pouco de queijo ralado por cima e nas laterais.
 _Sugestão: decore com azeitonas, folhas de salsa ou coentro e no centro da torta coloque uma flor feita de tomate._
 
-_Observação: Deixar na geladeira antes de servir. Fica mais saborosa!_
+###### Observações:  
+- _Você pode também decorar as laterais com batata palha._
+- _Deixar na geladeira antes de servir. Fica mais saborosa!_
 
 
