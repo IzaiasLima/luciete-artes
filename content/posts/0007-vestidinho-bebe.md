@@ -2,11 +2,14 @@
 title: "Vestidinho de bebê"
 featured: true
 suggest: true
-stars: 4
+active: true
+stars: 5
+price: 180,00
 tags: ["bebê", "moda infantil"]
-image: "0004-vestidinho-bebe.jpg"
+image: "0007-vestidinho-bebe.jpg"
+caption: "Uma fofura!"
 summary: "Vestidinho de bebê em lã anti-alérgica."
 ---
 
-**Tamanho:** 0 a 3 meses 
+**Tamanho:** 0 a 3 meses  
 

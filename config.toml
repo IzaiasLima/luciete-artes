@@ -6,7 +6,7 @@ languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 removePathAccents = true
 enableInlineShortcodes = true
-paginate = 3
+paginate = 15
 
 [menu]
 
