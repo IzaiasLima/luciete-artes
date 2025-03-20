@@ -1,10 +1,17 @@
+<ol class="mt-5 carousel-indicators">
+    {{ $res := where .Site.RegularPages "Params.featured" true }}
+    {{ range $key, $val := $res }}
+    <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="{{ $key }}" class="active"></li>
+    {{ end }}
+</ol>
+
 {{ $res := where .Site.RegularPages "Params.featured" true }}
 {{ range $res }}
 
 <div class="carousel-item {{ if .Params.active }} active {{ end }}">
     <div class="container">
         <div class="row p-5">
-            <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+            <div class="mx-auto mb-3 accordion-body col-lg-6 order-lg-last">
                 <a href="{{ .RelPermalink }}">
                     <img src="/posts/images/{{ .Params.image }}" class="img-fluid" alt="{{ .Params.image }}">
                 </a>

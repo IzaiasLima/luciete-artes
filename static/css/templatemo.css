@@ -4,7 +4,7 @@ TemplateMo 559 Zay Shop
 https://templatemo.com/tm-559-zay-shop */
 
 
-:root {
+/* :root {
   --primary: #59ab6e;
   --bg-primary: #79c479;
   --brd-primary: #56ae6c;
@@ -12,6 +12,15 @@ https://templatemo.com/tm-559-zay-shop */
   --dark-hover: #333b2b;
   --txt-success: #56ae6c;
   --warning: #79c479;
+} */
+:root{
+  --primary: #5a773e;
+  --bg-primary: #333b2b;
+  --brd-primary: #5a773e;
+  --primary-hover: #5e843b;
+  --dark-hover: #333b2b;
+  --txt-success: #5a773e;
+  --warning: #77773e;
 }
 
 /* Typography */
@@ -59,6 +68,10 @@ h3 a {
   font-size: 22px !important;
   font-weight: 200 !important;
   text-decoration: none;
+}
+
+img {
+  border-radius: 5px;
 }
 
 /* General */
@@ -241,6 +254,44 @@ h3 a {
   opacity: 0.5;
 }
 
+/* Video cicle box */
+.video-border {
+  position: relative;
+  margin-top: 5em;
+  padding: 15px;
+  width: 310px; 
+  height: 310px; 
+  clip-path: circle(50% at 50% 50%);
+  background-color: rgba(51, 59, 43,0.1);
+  overflow: hidden;
+}
+
+.video-inner-border {
+  position: relative;
+  padding: 15px;
+  width: 280px; 
+  height: 280px; 
+  clip-path: circle(50% at 50% 50%);
+  background-color: rgba(51, 59, 43,0.3);
+  overflow: hidden;
+}
+
+.video-container {
+  position: relative;
+  width: 250px; 
+  height: 250px; 
+  clip-path: circle(50% at 50% 50%);
+  overflow: hidden;
+}
+
+.video {
+  position: absolute;
+  object-fit: cover;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+}
+/* End Video cicle box */
 
 /* Carousel Hero */
 #template-mo-zay-hero-carousel .carousel-indicators li {

@@ -1,12 +1,12 @@
 ---
-title: "Suplat Celestial"
+title: "Suplat Luxo"
 featured: true
 suggest: true
 stars: 5
-price: 60,00 a unidade
+price: 60,00 (cada unidade)
 tags: ["decoração", "suplat"]
 image: "0002-supla-preto.jpg"
-summary: "Item decorativo ideal para festas elegantes."
+summary: "Item decorativo ideal para ocasiões elegantes."
 ---
 
 **Cor:** preto com borda dourada  

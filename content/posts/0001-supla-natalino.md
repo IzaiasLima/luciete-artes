@@ -3,7 +3,7 @@ title: "Suplat Natalino"
 featured: false
 suggest: false
 stars: 5
-price: 40,00 a unidade
+price: 40,00 (cada unidade)
 tags: ["decoração", "suplat", "natal"]
 image: "0001-supla-natalino.jpg"
 images: [
