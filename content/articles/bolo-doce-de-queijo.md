@@ -2,7 +2,7 @@
 title: "Bolo doce de queijo"
 date: 2025-02-02
 category: ["articles"]
-image: "bolo-doce-de-queijo.jpg"
+image: "bolo-doce-de-queijo.webp"
 summary: "Fácil e rápido de preparar com poucos ingredientes."
 ---
 

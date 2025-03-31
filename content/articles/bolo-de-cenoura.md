@@ -2,7 +2,7 @@
 title: "Bolo de cenoura"
 date: 2024-12-13
 category: ["articles"]
-image: "bolo-de-cenoura.jpg"
+image: "bolo-de-cenoura.webp"
 summary: "Esse bolo de cenoura no liquidificador é muito prático."
 ---
 

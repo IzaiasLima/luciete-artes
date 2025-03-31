@@ -2,7 +2,7 @@
 title: "Bolo de milho verde"
 date: 2024-12-12
 category: ["articles"]
-image: "bolo-de-milho.jpg"
+image: "bolo-de-milho.webp"
 summary: "Uma delícia feita com pouquíssimos ingredientes."
 ---
 

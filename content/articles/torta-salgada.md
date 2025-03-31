@@ -2,7 +2,7 @@
 title: "Torta Salgada"
 date: 2015-03-03
 category: ["articles"]
-image: "torta-salgada.jpg"
+image: "torta-salgada.webp"
 summary: "Esta é uma receita mais elaborada e trabalhosa, mas o resultado é saboroso."
 ---
 

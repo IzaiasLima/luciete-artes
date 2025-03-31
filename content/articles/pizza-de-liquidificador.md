@@ -2,7 +2,7 @@
 title: "Pizza de Liquidificador"
 date: 2003-10-15
 category: ["articles"]
-image: "pizza-de-liquidificador.jpg"
+image: "pizza-de-liquidificador.webp"
 copyright: "[Freepik.com](http://freepik.com)"
 summary: "Facílima de fazer, ideal para um lanche rápido. Não sei que é o autor. Aprendi a fazê-la em Castanhal-PA, em 1996."
 ---

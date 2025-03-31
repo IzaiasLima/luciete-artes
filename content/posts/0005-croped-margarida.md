@@ -5,8 +5,8 @@ active: false
 suggest: false
 stars: 4
 price: 60,00 
-tags: ["adulto", "jovens", "moda"]
-image: "0005-croped-margarida.jpg"
+tags: ["adulto", "moda jovem", "moda"]
+image: "0005-croped-margarida.webp"
 summary: "Croped em crochê com uma margarida na gola."
 ---
 

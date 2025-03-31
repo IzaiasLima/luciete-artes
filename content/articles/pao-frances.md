@@ -2,7 +2,7 @@
 title: "Pão Francês Caseiro"
 date: 2003-10-15
 category: ["articles"]
-image: "pao-frances.jpg"
+image: "pao-frances.webp"
 copyright: "[Freepik.com](http://freepik.com)"
 summary: "Esta é uma receita um pouco mais elaborada, porém muito gratificante de fazer. Foi publicada pelo Jornal Nacional lá pelo ano de 2007."
 ---

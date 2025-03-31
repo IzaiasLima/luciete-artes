@@ -5,8 +5,8 @@ active: false
 stars: 4
 price: 110,00 a unidade
 tags: ["bebê", "moda infantil"]
-image: "0014-jardineira.jpg"
-images: [["0014-jardineira.jpg", "0014B-jardineira.jpg"]]
+image: "0014-jardineira.webp"
+images: [["0014-jardineira.webp", "0014B-jardineira.webp"]]
 summary: "Jardineira colorida para bebê."
 ---
 

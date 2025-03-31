@@ -6,7 +6,7 @@ active: true
 stars: 5
 price: 180,00
 tags: ["bebê", "moda infantil"]
-image: "0007-vestidinho-bebe.jpg"
+image: "0007-vestidinho-bebe.webp"
 caption: "Uma fofura!"
 summary: "Vestidinho de bebê em lã anti-alérgica."
 ---

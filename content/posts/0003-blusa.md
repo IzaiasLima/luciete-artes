@@ -5,10 +5,10 @@ active: false
 suggest: true
 stars: 4
 price: 195,00
-tags: ["adulto", "jovens", "moda"]
-image: "0003-blusa.jpg"
+tags: ["adulto", "moda jovem", "moda"]
+image: "0003-blusa.webp"
 images: [
-    ["0003-blusa.jpg", "0003A-blusa.jpg", "0003B-blusa.jpg"]
+    ["0003-blusa.webp", "0003A-blusa.webp", "0003B-blusa.webp"]
 ]
 summary: "Blusa em estilo moderno, ideal para mulheres jovens."
 ---

@@ -5,8 +5,8 @@ active: true
 suggest: false
 stars: 5
 price: 205,00 
-tags: ["adulto", "jovens", "moda"]
-image: "0006-saia-cintura-alta.jpg"
+tags: ["adulto", "moda jovem", "moda"]
+image: "0006-saia-cintura-alta.webp"
 summary: "Saia cintura alta adulto."
 ---
 

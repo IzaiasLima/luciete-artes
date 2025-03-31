@@ -2,7 +2,7 @@
 title: "Bolo de pão de queijo"
 date: 2025-03-03
 category: ["articles"]
-image: "pao-de-queijo.jpg"
+image: "pao-de-queijo.webp"
 summary: "Fácil e rápido de preparar."
 ---
 
