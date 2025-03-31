@@ -1,6 +1,5 @@
 ---
 title: "Kit Sapatinho e Luva"
-featured: true
 suggest: true
 active: false
 stars: 4
