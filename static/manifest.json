@@ -4,15 +4,15 @@
     "start_url": "https://www.luciete.com.br",
     "display": "standalone",
     "description": "Artes da Luciete para compartilhar com as amigas.",
-    "categories": [
-        "lifestyle",
-        "social"
-      ],
     "lang": "pt-BR",
     "dir": "auto",
     "theme_color": "#77773e",
     "background_color": "#333b2b",
     "orientation": "any",
+    "categories": [
+        "lifestyle",
+        "social"
+    ],
     "icons": [
         {
             "src": "icons/icon512x512.png",
@@ -43,16 +43,16 @@
     ],
     "related_applications": [
         {
-            "platform":"windows",
+            "platform": "windows",
             "url": " The URL to your app in that app store"
         }
     ],
     "prefer_related_applications": false,
     "shortcuts": [
         {
-            "name":"Home",
-            "url":"/index.html",
-            "description":"Início"
+            "name": "Home",
+            "url": "/index.html",
+            "description": "Início"
         }
     ]
-    }
+}
