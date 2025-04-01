@@ -1,0 +1,58 @@
+{
+    "name": "Artes-da-Lu",
+    "short_name": "Artes da Lu",
+    "start_url": "https://www.luciete.com.br",
+    "display": "standalone",
+    "description": "Artes da Luciete para compartilhar com as amigas.",
+    "categories": [
+        "lifestyle",
+        "social"
+      ],
+    "lang": "pt-BR",
+    "dir": "auto",
+    "theme_color": "#77773e",
+    "background_color": "#333b2b",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "icons/icon512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "images/artes-da-lu-tela1",
+            "sizes": "2880x1800",
+            "type": "image/png",
+            "description": "Amostra da tela inicial"
+        },
+        {
+            "src": "images/artes-da-lu-tela2.png",
+            "sizes": "2880x1800",
+            "type": "image/png",
+            "description": "Amostra da tela inicial"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform":"windows",
+            "url": " The URL to your app in that app store"
+        }
+    ],
+    "prefer_related_applications": false,
+    "shortcuts": [
+        {
+            "name":"Home",
+            "url":"/index.html",
+            "description":"Início"
+        }
+    ]
+    }
