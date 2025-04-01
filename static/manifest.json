@@ -1,18 +1,14 @@
 {
     "name": "Artes-da-Lu",
     "short_name": "Artes da Lu",
-    "start_url": "https://www.luciete.com.br",
+    "start_url": "https://www.izaias.com.br",
     "display": "standalone",
-    "description": "Artes da Luciete para compartilhar com as amigas.",
+    "description": "Site pessoal de Lucete sobre crochê, criado apenas para compartilhar minhas criações com as amigas",
     "lang": "pt-BR",
     "dir": "auto",
     "theme_color": "#000000",
     "background_color": "#000000",
     "orientation": "any",
-    "categories": [
-        "lifestyle",
-        "social"
-    ],
     "icons": [
         {
             "src": "icons/icon512x512.png",
@@ -29,13 +25,13 @@
     ],
     "screenshots": [
         {
-            "src": "images/artes-da-lu-tela1",
+            "src": "images/IMG-2880x1800.png",
             "sizes": "2880x1800",
             "type": "image/png",
             "description": "Amostra da tela inicial"
         },
         {
-            "src": "images/artes-da-lu-tela2.png",
+            "src": "images/IMG-2880x1800B.png",
             "sizes": "2880x1800",
             "type": "image/png",
             "description": "Amostra da tela inicial"
