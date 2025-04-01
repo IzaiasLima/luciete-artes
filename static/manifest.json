@@ -6,8 +6,8 @@
     "description": "Artes da Luciete para compartilhar com as amigas.",
     "lang": "pt-BR",
     "dir": "auto",
-    "theme_color": "#77773e",
-    "background_color": "#333b2b",
+    "theme_color": "#000000",
+    "background_color": "#000000",
     "orientation": "any",
     "categories": [
         "lifestyle",
