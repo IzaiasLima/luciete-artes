@@ -2,7 +2,7 @@
 <nav id="menu" class="navbar navbar-expand-lg navbar-light shadow">
     <div class="container d-flex justify-content-between align-items-center">
 
-        <a class="navbar-brand text-success logo h1 align-self-center" href="/">
+        <a class="navbar-brand logo align-self-center" href="/">
             <img class="brand-img" src="{{ $.Site.Params.logotipo | relURL}}" alt="Logotipo">
         </a>
 
@@ -15,7 +15,7 @@
                 <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
 
                     {{ range .Site.Menus.main }}
-                    <li><a class="nav-link h3 {{ if eq .URL $.Params.page }} active {{ end }} " href="{{ .URL }}">{{ .Name }}</a></li>
+                    <li><a class="nav-link {{ if eq .URL $.Params.page }} active {{ end }} " href="{{ .URL }}">{{ .Name }}</a></li>
                     
                     {{ end }}
                 </ul>
