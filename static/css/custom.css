@@ -81,7 +81,13 @@ h3 p {
 }
 
 .brand-img {
-    width: 90px;
+    width: 50px;
+}
+
+@media (width > 992px) {
+    .brand-img {
+        width: 90px;
+    }
 }
 
 .navbar {
