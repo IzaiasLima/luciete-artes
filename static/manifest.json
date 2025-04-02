@@ -1,7 +1,7 @@
 {
-    "name": "Artes-da-Lu",
+    "name": "Artes da Lu",
     "short_name": "Artes da Lu",
-    "start_url": "https://www.izaias.com.br",
+    "start_url": "https://www.luciete.com.br",
     "display": "standalone",
     "description": "Site pessoal de Lucete sobre crochê, criado apenas para compartilhar minhas criações com as amigas",
     "lang": "pt-BR",
@@ -25,22 +25,16 @@
     ],
     "screenshots": [
         {
-            "src": "images/IMG-2880x1800.png",
-            "sizes": "2880x1800",
+            "src": "images/artes-da-lu-tela1.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "description": "Amostra da tela inicial"
         },
         {
-            "src": "images/IMG-2880x1800B.png",
-            "sizes": "2880x1800",
+            "src": "images/artes-da-lu-tela2.png",
+            "sizes": "1280x720",
             "type": "image/png",
             "description": "Amostra da tela inicial"
-        }
-    ],
-    "related_applications": [
-        {
-            "platform": "windows",
-            "url": " The URL to your app in that app store"
         }
     ],
     "prefer_related_applications": false,
