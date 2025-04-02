@@ -75,3 +75,20 @@ h3 p {
     font-size: 18px;
     background-color: #b8beb8 !important;
 }
+
+#template-mo-zay-hero-carousel {
+    padding-top: 120px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    z-index: 1001;
+}
+
+.dark-shadow {
+    box-shadow: 0 .9rem 1rem rgba(0, 0, 0, .20) !important;
+}
