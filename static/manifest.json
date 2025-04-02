@@ -1,7 +1,7 @@
 {
     "name": "Artes da Lu",
     "short_name": "Artes da Lu",
-    "start_url": "luciete.com.br",
+    "start_url": "/",
     "display": "standalone",
     "description": "Site pessoal de Lucete sobre crochê, criado apenas para compartilhar minhas criações com as amigas",
     "lang": "pt-BR",
@@ -9,6 +9,11 @@
     "theme_color": "#000000",
     "background_color": "#000000",
     "orientation": "any",
+    "related_applications": [],
+    "display_override": ["window-controls-overlay"],
+    "launch_handler": {
+      "client_mode": "focus-existing"
+    },
     "icons": [
         {
             "src": "icons/icon512x512.png",
