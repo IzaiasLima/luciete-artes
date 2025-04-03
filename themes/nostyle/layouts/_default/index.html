@@ -21,7 +21,7 @@
             <i class="fas fa-chevron-right"></i>
         </a>
     </div>
-   <!-- End featured products -->
+    <!-- End featured products -->
 
     <!-- Start Suggest Product -->
     <section class="container py-5">
@@ -29,14 +29,23 @@
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Produtos sugeridos</h1>
                 <p>
-                    Escolhemos alguns produtos que acreditamos que você vai amar. Todos planejados e produzidos 
+                    Escolhemos alguns produtos que acreditamos que você vai amar. Todos planejados e produzidos
                     com carinho para atender às suas necessidades.
                 </p>
             </div>
         </div>
         <div class="row">
+            
             {{- partial "suggest.html" . -}}
+
+            <h2 class="h2">
+                <a class="text-warning text-decoration-none" href="/posts">
+                    Ver tudo 
+                    <i class="fa fa-solid fa-chevron-circle-right"></i></a>
+            </h2>
         </div>
+
+
     </section>
     <!-- End Suggest Product -->
 

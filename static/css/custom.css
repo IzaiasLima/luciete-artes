@@ -2,6 +2,21 @@
 Custom Css
 */
 
+body {
+    padding-top: 80px;
+}
+
+@media (width > 992px) {
+    body {
+        padding-top: 120px;
+    }
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 .bg-success a {
     color: #fff !important;
 }
@@ -76,16 +91,6 @@ h3 p {
     background-color: #b8beb8 !important;
 }
 
-#template-mo-zay-hero-carousel {
-    padding-top: 60px;
-}
-
-@media (width > 992px) {
-    #template-mo-zay-hero-carousel {
-        padding-top: 100px;
-    }
-}
-
 #template-mo-zay-hero-carousel .carousel-indicators li {
     margin-top: 0 !important;
 }
@@ -116,5 +121,5 @@ h3 p {
 
 .dark-shadow {
     box-shadow: 0 .9rem 1rem rgba(0, 0, 0, .20) !important;
+    transition: .5s;
 }
-
