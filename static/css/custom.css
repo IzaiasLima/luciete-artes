@@ -77,7 +77,17 @@ h3 p {
 }
 
 #template-mo-zay-hero-carousel {
-    padding-top: 120px;
+    padding-top: 60px;
+}
+
+@media (width > 992px) {
+    #template-mo-zay-hero-carousel {
+        padding-top: 100px;
+    }
+}
+
+#template-mo-zay-hero-carousel .carousel-indicators li {
+    margin-top: 0 !important;
 }
 
 .brand-img {
@@ -107,3 +117,4 @@ h3 p {
 .dark-shadow {
     box-shadow: 0 .9rem 1rem rgba(0, 0, 0, .20) !important;
 }
+

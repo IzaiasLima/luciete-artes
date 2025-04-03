@@ -1,4 +1,4 @@
-<ol class="mt-5 carousel-indicators">
+<ol class="carousel-indicators">
     {{ $res := where .Site.RegularPages "Params.featured" true }}
     {{ range $key, $val := $res }}
     <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="{{ $key }}" class="active"></li>
