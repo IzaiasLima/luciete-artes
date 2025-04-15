@@ -5,7 +5,7 @@ stars: 5
 price: 15,00 (o par)
 tags: ["moda", "moda infantil"]
 image: "0020-meias-bebe.webp"
-summary: "Meias em lã super macia para bebês."
+summary: "Meias em lã anti-alérgica para bebês."
 ---
 
 **Tamanhos:** P/M

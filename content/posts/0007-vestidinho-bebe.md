@@ -2,7 +2,6 @@
 title: "Vestidinho de bebê"
 featured: true
 suggest: true
-active: true
 stars: 5
 price: 180,00
 tags: ["bebê", "moda infantil"]

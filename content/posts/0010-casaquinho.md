@@ -7,7 +7,7 @@ price: 120,00
 tags: ["bebê", "moda infantil"]
 image: "0010-casaquinho.webp"
 images: [["0010-casaquinho.webp", "0010B-casaquinho.webp"]]
-summary: "Casaquinho de lã super macia para bebê."
+summary: "Casaquinho de lã anti-alérgica para bebê."
 ---
 
 **Tamanho:** 0 a 3 meses  

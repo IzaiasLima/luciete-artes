@@ -1,11 +1,11 @@
 ---
-title: "Touca Infantil"
+title: "Saia Infantil"
 suggest: true
 stars: 5
-price: 42,00
+price: 80,00
 tags: ["moda", "moda infantil"]
-image: "0021-touca-bebe.webp"
-summary: "Touca em lã para meninas."
+image: "0026-saia-bebe.webp"
+summary: "Saia ."
 ---
 
 **Tamanho:** 6 a 10 anos

@@ -1,5 +1,5 @@
 ---
-title: "Suplat Luxo"
+title: "Sousplat Luxo"
 featured: true
 suggest: true
 stars: 5
