@@ -1,6 +1,5 @@
 ---
 title: "Vestidinho de bebê"
-featured: true
 suggest: true
 stars: 5
 price: 180,00

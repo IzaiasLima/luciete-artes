@@ -1,12 +1,12 @@
 ---
-title: "Saia Infantil"
+title: "Touca Infantil"
 suggest: true
 stars: 5
 price: 80,00
-tags: ["moda", "moda infantil"]
-image: "0026-saia-bebe.webp"
-summary: "Saia ."
+tags: ["bebê", "moda infantil"]
+image: "0021-touca-bebe.webp"
+summary: "Touca para saida de maternidade."
 ---
 
-**Tamanho:** 6 a 10 anos
+**Tamanho:** 0 meses, recém-nascido
 
