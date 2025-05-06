@@ -7,7 +7,7 @@ stars: 5
 price: 50,00 
 tags: ["bebê", "moda infantil"]
 image: "0018-sapatinho-bebe.webp"
-images: [["0018-sapatinho-bebe.webp", "0018B-sapatinho-bebe.webp", "0018C-sapatinho-bebe.webp"]]
+images: [["0018-sapatinho-bebe.webp", "0018B-sapatinho-bebe.webp"]]
 summary: "Sapatinho de luxo com pérolas."
 ---
 

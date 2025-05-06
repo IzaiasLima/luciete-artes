@@ -1,10 +1,10 @@
 ---
-title: "Suplat Natalino"
+title: "Sousplat Natalino"
 featured: false
 suggest: false
 stars: 5
 price: 40,00 (cada unidade)
-tags: ["decoração", "suplat", "natal"]
+tags: ["decoração", "sousplat", "natal"]
 image: "0001-supla-natalino.webp"
 images: [
     ["0001-supla-natalino.webp", "0001A-supla-natalino.webp", "0001B-supla-natalino.webp"],

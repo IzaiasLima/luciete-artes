@@ -4,7 +4,7 @@ featured: true
 suggest: true
 stars: 5
 price: 55,00 (cada unidade)
-tags: ["decoração", "suplat"]
+tags: ["decoração", "sousplat"]
 image: "0002-supla-preto.webp"
 summary: "Item decorativo ideal para ocasiões elegantes."
 ---
