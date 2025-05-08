@@ -65,7 +65,8 @@ h3 a:hover {
 }
 
 h3 p {
-    font-size: 22px !important;
+    font-size: 23px !important;
+    line-height: 1.4;
 }
 
 .card a {

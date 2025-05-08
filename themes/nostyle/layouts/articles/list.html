@@ -11,9 +11,9 @@
     {{ range .Site.Pages }}
     {{ if in .Params.category "articles" }}
 
-    <div class="col-md-8 col-sm-12 mx-auto">
+    <div class="col-md-8 col-sm-12 mx-auto py-3">
         <div class="row gx-4 py-2">
-            <div class="col-md-2">
+            <div class="col-md-3">
                 {{ if .Params.image }}
                 <a href="{{ .RelPermalink }}">
                     <img src="/articles/images/{{ .Params.image  }}" class="img-fluid" alt="{{ $.Name }}">
@@ -21,12 +21,12 @@
                 {{ end }}
             </div>
 
-            <div class="col-md-10">
+            <div class="col-md-9">
                 <h3 class="h3">
                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </h3>
                 {{ if .Params.summary }}
-                <p>{{ .Params.summary }}</p>
+                <p class="h3">{{ .Params.summary }}</p>
                 {{ end }}
             </div>
 

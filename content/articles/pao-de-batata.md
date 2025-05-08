@@ -2,8 +2,8 @@
 title: "Receita de pão de batata"
 date: 2024-12-10
 category: ["articles"]
-image: "pao-de-batata.png"
-summary: "Receita de pão delicioso e prático que até eu consigo fazer! Essa receita eu aprendi com o Paulo Henrique, de Santa Maria do Pará (PA)."
+image: "pao-de-batata.webp"
+summary: "Receita de pão delicioso e prático que até eu consigo fazer! Essa receita eu aprendi com o Paulo Henrique, de Santa Maria do Pará."
 ---
 
 **Ingredientes:**  
