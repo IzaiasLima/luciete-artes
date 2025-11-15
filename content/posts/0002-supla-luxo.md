@@ -1,6 +1,6 @@
 ---
 title: "Sousplat Luxo"
-featured: true
+featured: false
 suggest: true
 stars: 5
 price: 55,00 (cada unidade)

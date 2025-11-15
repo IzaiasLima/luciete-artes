@@ -1,7 +1,7 @@
 ---
 title: "Saída de Praia"
-suggest: true
 featured: true
+suggest: false
 stars: 5
 price: 280,00
 tags: ["moda jovem", "moda praia"]

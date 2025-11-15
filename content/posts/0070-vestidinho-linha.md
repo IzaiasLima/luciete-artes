@@ -5,8 +5,11 @@ suggest: true
 stars: 5
 price: 95,00
 tags: ["bebê", "moda infantil"]
-image: "0007-vestidinho-linha.webp"
-images: [["0007-vestidinho-linha.webp", "0007B-vestidinho-linha.webp"]]
+image: "0074-vestidinho-linha.webp"
+images: [["0072-vestidinho-linha.webp", 
+        "0073-vestidinho-linha.webp",
+        "0074-vestidinho-linha.webp",
+        ]]
 summary: "Vestidinho de bebê feito de linha."
 ---
 

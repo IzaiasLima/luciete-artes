@@ -1,11 +1,16 @@
 ---
 title: "Saia Bebê em Lã"
+featured: true
 suggest: true
 stars: 5
 price: 85,00
 tags: ["bebê", "moda infantil"]
-image: "0026-saia-bebe.webp"
-images: [["0026-saia-bebe.webp", "0026B-saia-bebe.webp", "0026-saia-e-sandalia.webp"]]
+image: "0028-saia-bebe.webp"
+images: [["0026-saia-bebe.webp", 
+        "0027-saia-bebe.webp", 
+        "0028-saia-bebe.webp", 
+        "0029-saia-bebe.webp", 
+        "0026-saia-e-sandalia.webp"]]
 summary: "Saia em lã anti-alérgica para bebês."
 ---
 

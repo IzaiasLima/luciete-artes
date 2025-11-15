@@ -1,8 +1,6 @@
 ---
 title: "Sapatinho Bebê"
-featured: true
-suggest: true
-active: false
+featured: false
 stars: 5
 price: 50,00 
 tags: ["bebê", "moda infantil"]

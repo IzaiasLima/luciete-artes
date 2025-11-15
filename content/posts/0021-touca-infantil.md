@@ -1,6 +1,6 @@
 ---
 title: "Touca Infantil"
-suggest: true
+suggest: false
 stars: 5
 price: 80,00
 tags: ["moda infantil"]

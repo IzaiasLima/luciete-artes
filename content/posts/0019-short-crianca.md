@@ -1,6 +1,5 @@
 ---
 title: "Shortinho para Meninas"
-suggest: true
 stars: 5
 price: 80,00
 tags: ["moda infantil"]
