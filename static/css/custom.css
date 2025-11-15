@@ -10,7 +10,7 @@ body {
     body {
         padding-top: 120px;
     }
-    
+
 }
 
 html {
@@ -115,7 +115,7 @@ h3 p {
     z-index: 1001;
 }
 
-.nav-link{
+.nav-link {
     font-size: 22px !important;
     font-weight: 300 !important;
 }
@@ -123,4 +123,15 @@ h3 p {
 .dark-shadow {
     box-shadow: 0 .9rem 1rem rgba(0, 0, 0, .20) !important;
     transition: .5s;
+}
+
+.product-wap,
+.card.h-100 {
+    transition: transform .3s ease-in-out;
+}
+
+.product-wap:hover,
+.card.h-100:hover {
+    transform: scale(1.03);
+
 }
