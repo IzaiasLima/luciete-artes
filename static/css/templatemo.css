@@ -377,15 +377,6 @@ img {
 
 /* Small devices (landscape phones, 576px and up)*/
 
-/*
-.product-wap .h3,
-.product-wap li,
-.product-wap i,
-.product-wap p {
-  font-size: 12px !important;
-} 
-*/
-
 .product-wap .product-color-dot {
   width: 6px;
   height: 6px;
@@ -393,7 +384,7 @@ img {
 
 @media (min-width: 576px) {
   .tempaltemo-carousel .h1 {
-    font-size: 1em !important;
+    font-size: 1em;
   }
 }
 
@@ -411,14 +402,14 @@ img {
   }
 
   #template-mo-zay-hero-carousel .carousel-item {
-    min-height: 30rem !important;
+    min-height: 30rem;
   }
 
   .product-wap .h3,
   .product-wap li,
   .product-wap i,
   .product-wap p {
-    font-size: 18px !important;
+    font-size: 18px;
   }
 
   .product-wap .product-color-dot {

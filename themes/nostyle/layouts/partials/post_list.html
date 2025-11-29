@@ -14,12 +14,19 @@
                     <a href="{{ .Permalink }}" class="h3 text-decoration-none">{{ .Title }}</a>
                 </div>
 
-                <ul class="list-unstyled d-flex justify-content-center mb-1">
+                <ul class="list-star list-unstyled d-flex justify-content-center mb-1">
                     <li> {{- partial "stars.html" .Page -}} </li>
                 </ul>
 
+
+                {{ if .Params.fullprice }}
+                <p class="text-center fullprice mb-0">R$
+                    {{ .Params.fullprice }}
+                </p>
+                {{ end }}
+
                 {{ if .Params.price }}
-                <p class="text-center text-warning fa-close fw-bolder mb-0">R$ {{ .Params.price }}</p>
+                <p class="text-center text-warning fw-bolder mb-0">R$ {{ .Params.price }} </p>
                 {{ else }}
                 <p class="text-center mb-0">&nbsp;</p>
                 {{ end }}

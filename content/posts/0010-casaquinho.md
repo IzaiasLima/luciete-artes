@@ -1,6 +1,5 @@
 ---
 title: "Casaquinho de bebê"
-featured: true
 active: false
 stars: 4
 price: 120,00 

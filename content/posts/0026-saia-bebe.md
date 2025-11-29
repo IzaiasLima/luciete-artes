@@ -3,7 +3,7 @@ title: "Saia Bebê em Lã"
 featured: true
 suggest: true
 stars: 5
-price: 85,00
+price: 110,00
 tags: ["bebê", "moda infantil"]
 image: "0028-saia-bebe.webp"
 images: [["0026-saia-bebe.webp", 
@@ -15,5 +15,5 @@ summary: "Saia em lã anti-alérgica para bebês."
 ---
 
 **Tamanho:** 6 a 12 meses  
-**Oberservação:** O preço se refere apenas à saia.  
+**Oberservação:** O preço se refere apenas à saia e o _body_.  
 [Consulte a sandalhinha **aqui**, se tiver interesse nela](/posts/0013-sadalinha).

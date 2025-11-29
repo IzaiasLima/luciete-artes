@@ -126,12 +126,34 @@ h3 p {
 }
 
 .product-wap,
-.card.h-100 {
+.card.h-100,
+.card-img {
     transition: transform .3s ease-in-out;
 }
 
 .product-wap:hover,
-.card.h-100:hover {
+.card.h-100:hover,
+.card-img:hover {
     transform: scale(1.03);
 
+}
+
+.fullprice {
+    text-decoration: line-through;
+    color: #b24141;
+    font-size: .8em !important;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    height: 175px;
+
+    &.full {
+        height: unset;
+    }
+}
+
+.list-star {
+    margin-block-start: auto;
 }
