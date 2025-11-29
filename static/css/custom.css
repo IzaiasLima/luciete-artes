@@ -157,3 +157,12 @@ h3 p {
 .list-star {
     margin-block-start: auto;
 }
+
+.deteils {
+    margin-top: 3rem;
+    padding: 3rem;
+
+    @media (width <=768) {
+        padding: 1rem;
+    }
+}
