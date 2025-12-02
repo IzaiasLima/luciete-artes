@@ -11,4 +11,4 @@ summary: "Croped e shorte para crianças a partir de 2 anos"
 **Tamanho:** 2 anos  
 **Observação:** As sadalinhas não estão inclusas no preço.  
 Consulte as [sandalinhas **aqui**](/posts/0013-sandalinha-com-flor) 
-[e também **aqui**](/0018-sapatinho-bebe), se tiver interesse nelas.
+[e também **aqui**](/posts/0018-sapatinho-bebe), se tiver interesse nelas.
