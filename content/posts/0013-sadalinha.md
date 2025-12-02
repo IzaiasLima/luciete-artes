@@ -1,5 +1,5 @@
 ---
-title: "Sandalinha Bebê"
+title: "Sandalinha Bebê com Pérolas"
 suggest: true
 stars: 4
 price: 45,00
